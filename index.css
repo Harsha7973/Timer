@@ -1,0 +1,58 @@
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    font-size: large;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.timer{
+    text-align: center;
+    font-size: 100px ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: aqua;
+}
+.timer h1{
+    font-size: 50px;
+    color: yellow;
+}
+#reset{
+    background-color: blue;
+    font-size: 50px;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    cursor: pointer;
+}
+#reset:hover{
+    background-color: red;
+}
+#start{
+    background-color: blue;
+    font-size: 50px;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    cursor: pointer;
+}
+#start:hover{
+    background-color: red;
+}
+#stop{
+    background-color: blue;
+    font-size: 50px;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    cursor: pointer;
+}
+#stop:hover{
+    background-color: red;
+}
