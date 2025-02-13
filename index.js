@@ -10,7 +10,7 @@
 //     console.log(newPassword.value);
 //     console.log(newText.value);
 // }
-// i have two buttom start and stop and reset write function that will start the timer and stop the timer and reset the timer.
+
 const start=document.getElementById("start");
 const stop=document.getElementById("stop");
 const reset=document.getElementById("reset");
